@@ -8,7 +8,3 @@ puts "in 30 years  will be:"
 puts age + 30
 puts "in 40 years  will be:"
 puts age + 40
-
-
-
-
